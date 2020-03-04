@@ -15,5 +15,25 @@
     <itunes:image href="https://demondevilhades.github.io/podcastsconnect/apple/Vol001/mainpage.jpeg" />
     <itunes:category text="Leisure"></itunes:category>
     <itunes:explicit>true</itunes:explicit>
+    <item>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:episode>1</itunes:episode>
+      <itunes:season>1</itunes:season>
+      <title>一岸三地-Hoodcast Vol.001</title>
+      <description>
+备了、录了、剪了、发了。&#10;&#10;三地三通，介绍自己，聊聊近况。&#10;&#10;不简单，有点意思。
+      </description>
+      <itunes:image href="https://demondevilhades.github.io/podcastsconnect/apple/Vol001/mainpage.jpeg" />
+      <link>href="http://example.com/podcasts/everything/</link>
+      <enclosure 
+        length="112180148" 
+        type="audio/mp3" 
+        url="http://cdn5.lizhi.fm/audio/2020/03/02/5097425710484944518_ud.mp3"
+      />
+      <guid>hcv000001</guid>
+      <pubDate>Wed, 04 Mar 2020 23:45:00 +0800</pubDate>
+      <itunes:duration>2803</itunes:duration>
+      <itunes:explicit>true</itunes:explicit>
+    </item>
   </channel>
 </rss>
