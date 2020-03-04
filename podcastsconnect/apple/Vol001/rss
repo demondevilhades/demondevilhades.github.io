@@ -12,7 +12,7 @@
       <itunes:name>胡嘚卡斯特 Hoodcast</itunes:name>
       <itunes:email>awesome67373@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="./mainpage.jpeg" />
+    <itunes:image href="https://demondevilhades.github.io/podcastsconnect/apple/Vol001/mainpage.jpeg" />
     <itunes:category text="Leisure"></itunes:category>
     <itunes:explicit>true</itunes:explicit>
   </channel>
